@@ -31,7 +31,7 @@ MIRYOKU_X(FUN,    "Fun")
 * :: -> _
 * ? -> ;
 */
-#define MIRYOKU_ALTERNATIVES_SYM_FLIP \
+#define MIRYOKU_LAYER_SYM \
 &kp SQT,           &kp LT,      &kp GT,     &kp DQT,      &kp DOT,              &kp AMPS,     &kp UNDER,      &kp LBKT,       &kp RBKT,       &kp PRCNT,      \
 &kp EXCL,          &kp MINUS,   &kp PLUS,   &kp EQUAL,    &kp HASH,             &kp PIPE,     &kp COLON,      &kp LPAR,       &kp RPAR,       &kp SEMI,       \
 &kp CARET,         &kp FSLH,    &kp STAR,   &kp BSLH,     &kp QMARK,            &kp TILDE,    &kp DLLR,       &kp LBRC,       &kp RBRC,       &kp AT,         \
